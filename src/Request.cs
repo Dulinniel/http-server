@@ -7,8 +7,8 @@ using Endpoints;
 
 namespace Requests
 {
-	class Request
-	{
+  class Request
+  {
 
     private Socket socket;
 
@@ -71,5 +71,5 @@ namespace Requests
 
     }
 
-	}
+  }
 }
